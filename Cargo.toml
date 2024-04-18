@@ -1,0 +1,8 @@
+[package]
+name = "mmap-sync"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+memmap2 = "0.9.4"
+snafu = "0.8.2"
